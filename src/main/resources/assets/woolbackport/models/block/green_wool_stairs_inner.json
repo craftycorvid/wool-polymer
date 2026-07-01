@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "display": {
+    "fixed": {
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    }
+  },
+  "textures": {
+    "bottom": "minecraft:block/green_wool",
+    "top": "minecraft:block/green_wool",
+    "side": "minecraft:block/green_wool"
+  }
+}
